@@ -5,7 +5,7 @@ int main(){
     
 
     cout << "Enter number of vertices \n";
-    cin >> vertex;
+    cin >> vert;
 
     int adj[vertex][vertex];
 
